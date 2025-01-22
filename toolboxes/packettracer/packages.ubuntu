@@ -30,6 +30,7 @@ iputils-ping
 keyutils
 language-pack-en
 less
+libasound2
 libbsd0
 libcap2-bin
 libdrm-amdgpu1
@@ -46,6 +47,7 @@ libgbm1
 libgl1
 libgl1-amber-dri
 libgl1-mesa-dri
+libgl1-mesa-glx
 libglapi-mesa
 libglib2.0-bin
 libglvnd0
